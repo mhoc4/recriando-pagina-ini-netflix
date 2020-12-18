@@ -2,4 +2,6 @@
 
 
 
-Recriação da página inicial da Netflix feito em HTML5, CSS3 e Jquery Owl Carousel
+Recriação da página inicial da Netflix feito em HTML5, CSS3 e Jquery Owl Carousel.
+
+![page](./src/img/page.jpg)
